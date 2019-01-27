@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Picture Application</string>
+    <string name="links_button">links</string>
+    <string name="databasename">picture_db</string>
+</resources>
